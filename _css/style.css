@@ -1,0 +1,40 @@
+.sombra {
+  text-shadow: 2px 1px 1px #ccc;
+  text-decoration: underline;
+  color: lightblue;
+}
+
+h1 {
+  color: lightblue;
+}
+
+a {
+  color: white;
+  background-color: rgb(126, 18, 18);
+}
+
+div p b {
+  color: rgb(0, 255, 64);
+}
+
+body {
+  background-color: black;
+  color: lightgrey;
+  font-size: 17px;
+  margin: 20%;
+}
+
+#div-1 {
+  font-size: 16.5px;
+  background-color: #ff1f1f;
+}
+
+#div-2 {
+  font-size: 18px;
+  background-color: #ff3d3d;
+}
+
+#div-3 {
+  font-size: 19.5px;
+  background-color: #ff5c5c;
+}/*# sourceMappingURL=style.css.map */
